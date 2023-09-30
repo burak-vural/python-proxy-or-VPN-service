@@ -43,9 +43,6 @@ if __name__ == "__main__":
 #Ölçüm: Tarayıcının performansını ölçmek için bir metrikler sistemi
 
 
-
-
-
 import socket
 import ssl
 import requests
